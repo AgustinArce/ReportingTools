@@ -1,0 +1,8 @@
+[.]git/.*
+inst/examples/csslib/.*
+inst/examples/jslib/.*
+inst/examples/.*[.](html|md)
+inst/unitTests/csslib/*
+inst/unitTests/jslib/*
+inst/unitTests/reports/*
+.*[#].*
